@@ -29,3 +29,5 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E50800&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E50800&height=180&section=header&text=Bruno%20Aparecido%20Rodrigues&fontSize=40&fontColor=000000&animation=twinkling&fontAlignY=35"/>
+
