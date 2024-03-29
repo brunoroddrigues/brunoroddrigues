@@ -1,4 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E50800&height=180&section=header&text=Bruno%20Aparecido%20Rodrigues&fontSize=40&fontColor=000000&animation=twinkling&fontAlignY=35"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=black&height=180&section=header&text=Bruno%20Aparecido%20Rodrigues&fontSize=40&fontColor=E50800&animation=twinkling&fontAlignY=35"/>
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Bruno+Aparecido+Rodrigues+;Tenho+26+anos;Sou+de+Jaú,+SP;Cursando+Sistemas+para+internet,+Fatec+Jahu+;+Senac+Jahu+;Bem-vindo!+:D)](https://git.io/typing-svg)
 
@@ -8,7 +10,7 @@
 </div>
 
 <div align="center">
-  <a href = "mailto:bruno.rodrigues76@fatec.sp.gov.br.co"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:bruno.rodrigues76@fatec.sp.gov.br.co"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/bruno_rodddrigues/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
@@ -28,7 +30,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E50800&height=120&section=footertext=Bruno%20Aparecido%20Rodrigues&fontSize=40&fontColor=000000&animation=twinkling&fontAlignY=35"/>
-
-
-
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=black&height=120&section=footertext=Bruno%20Aparecido%20Rodrigues&fontSize=40&fontColor=E50800&animation=twinkling&fontAlignY=35"/>
+</div>
