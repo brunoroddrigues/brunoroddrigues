@@ -1,3 +1,4 @@
+***Bem Vindo!!!***
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E50800&height=180&section=header&text=Bruno%20Aparecido%20Rodrigues&fontSize=40&fontColor=000000&animation=twinkling&fontAlignY=35"/>
 </div>
@@ -11,15 +12,6 @@
 
 <div align="center">
   <a href="mailto:bruno.rodrigues76@fatec.sp.gov.br.co"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/bruno_rodddrigues/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <br />
-  <br />
-  <img src="https://img.shields.io/badge/-Welcome%20to%20my%20GitHub%20Profile!-000000?style=for-the-badge&logo=github" />
-  <br />
-  <br />
-  <a href="https://github.com/brunoroddrigues">
-    <img src="https://img.shields.io/github/followers/brunoroddrigues?color=000000&label=Follow%20me%21&logo=github&style=for-the-badge" />
-  </a>
 </div>
 
 ### Linguagens
