@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E50800&height=180&section=header&text=Bruno%20Aparecido%20Rodrigues&fontSize=50&fontColor=000000&animation=twinkling&fontAlignY=35" style="background: linear-gradient(to right, #E50800, #000000, #E50800); fontFamily: 'Roboto', sans-serif;">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E50800&height=180&section=header&text=Bruno%20Aparecido%20Rodrigues&fontSize=50&fontColor=000000&animation=twinkling&fontAlignY=45" style="background: linear-gradient(to right, #E50800, #000000, #E50800); fontFamily: 'Roboto', sans-serif;">
 </div>
 
 
