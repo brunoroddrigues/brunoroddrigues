@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E50800&height=180&section=header&text=Bruno%20Aparecido%20Rodrigues&fontSize=55&fontColor=000000&animation=twinkling&fontAlignY=35"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E50800&height=180&section=header&text=Bruno%20Aparecido%20Rodrigues&fontSize=50&fontColor=000000&animation=twinkling&fontAlignY=35"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Bruno+Aparecido+Rodrigues+;Tenho+26+anos;Sou+de+Jaú,+SP;Cursando+Sistemas+para+internet,+Fatec+Jahu+;+Senac+Jahu+;Bem-vindo!+:D)](https://git.io/typing-svg)
