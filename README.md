@@ -36,7 +36,7 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)&nbsp;
 
-
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E50800&height=120&section=footertext=Bruno%20Aparecido%20Rodrigues&fontSize=40&fontColor=000000&animation=twinkling&fontAlignY=35"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E50800&height=180&section=header&text=Bruno%20Aparecido%20Rodrigues&fontSize=40&fontColor=000000&animation=twinkling&fontAlignY=35"/>
 </div>
+
