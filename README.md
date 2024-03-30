@@ -14,6 +14,9 @@
   <a href="mailto:bruno.rodrigues76@fatec.sp.gov.br.co"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-aparecido-rodrigues-81a6492b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+ <a href="https://github.com/brunoroddrigues/events"><img src="https://img.shields.io/badge/-Participating%20in%20Events-%23100000?style=for-the-badge" target="_blank"></a>
+</div>
+
 
 ### Linguagens
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
