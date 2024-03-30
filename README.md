@@ -3,7 +3,7 @@
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Bruno+Aparecido+Rodrigues+;Tenho+26+anos;Sou+de+Jaú,+SP;Cursando+Sistemas+para+internet,+Fatec+Jahu+;+Senac+Jahu+;Bem-vindo!+:D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=40&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Bruno+Aparecido+Rodrigues+;Tenho+26+anos;Sou+de+Jaú,+SP;Cursando+Sistemas+para+internet,+Fatec+Jahu+;+Senac+Jahu+;Bem-vindo!+:D)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brunoroddrigues&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=42EB10&text_color=FFFFFF&bg_color=0d1117" alt="GaMa404 Github stats" /> 
