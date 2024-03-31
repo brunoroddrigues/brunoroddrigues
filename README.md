@@ -19,7 +19,6 @@
 
 <img src="https://github.com/brunoroddrigues/brunoroddrigues/assets/142831593/bf9864e5-0c82-4797-b423-4211b189d78c" alt="login" style="width:219px; height:150px; auto; display: block; margin: 0 auto 10px;">
 <img src="https://github.com/brunoroddrigues/brunoroddrigues/assets/142831593/4998de61-c4de-41eb-956d-7d6a3671c272" alt="login" style="width:219px; height:150px; auto; display: block; margin: 0 auto 10px;">
-<br>
 <img src="https://github.com/brunoroddrigues/brunoroddrigues/assets/142831593/c9c7b071-8158-4e0e-afa6-b0fdd9fab353" alt="login" style="width:219px; height:150px; auto; display: block; margin: 0 auto 10px;">
 <img src="https://github.com/brunoroddrigues/brunoroddrigues/assets/142831593/5c4526b9-8846-48ea-aa4f-f8e1c1577fd4" alt="login" style="width:219px; height:150px; auto; display: block; margin: 0 auto 10px;">
 
