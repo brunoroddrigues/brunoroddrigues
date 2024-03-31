@@ -14,7 +14,7 @@
 
 <div align="center">
   
-### <span style="font-family: Arial, sans-serif;">Fale comigo:</span>
+### <span style="font-family: Arial, sans-serif;">📞📧  Fale comigo:</span>
 📱 [WhatsApp](https://wa.me/5514996149608)
 </div>
 
@@ -41,7 +41,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
 
-### Ferramentas
+### Ferramentas: ⚙️
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![MicrosoftOfice](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
