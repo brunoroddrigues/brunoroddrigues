@@ -2,7 +2,8 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E50800&height=190&section=header&text=Bruno%20Aparecido%20Rodrigues&fontSize=60&fontColor=000000&animation=twinkling&fontAlignY=35" style="background: linear-gradient(to right, #E50800, #000000, #E50800); fontFamily: 'Roboto', sans-serif;">
 </div>
 
-![login](https://github.com/brunoroddrigues/brunoroddrigues/assets/142831593/84318cbf-e414-4561-bbe9-f8ffe9f58148)
+<img src="https://github.com/brunoroddrigues/brunoroddrigues/raw/main/assets/142831593/84318cbf-e414-4561-bbe9-f8ffe9f58148" alt="login" style="width:300px;">
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=40&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Bruno+Aparecido+Rodrigues+;Tenho+26+anos;Sou+de+Jaú,+SP;Cursando+Sistemas+para+internet,+Fatec+Jahu+;+Senac+Jahu+;Bem-vindo!+:D)](https://git.io/typing-svg)
 
