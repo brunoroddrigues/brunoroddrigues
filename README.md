@@ -32,6 +32,7 @@
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
 
 ### Ferramentas
@@ -46,6 +47,10 @@
 ![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)&nbsp;
+![Azure Virtual Machine](https://img.shields.io/badge/Azure_Virtual_Machine-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=white)&nbsp;
+
+
 
 <div align="center" style="background: linear-gradient(to right, #E50800, #000000);">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E50800&height=120&section=footer&text=&copy;2024%20-%20Bruno%20Rodrigues%20/%20Email:%20bruno.rodrigues76@fatec.sp.gov.br&fontSize=20&fontColor=000000&animation=twinkling&fontAlignY=75"/>
