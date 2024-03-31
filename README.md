@@ -12,9 +12,11 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoroddrigues&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
-### Fale comigo:
+<div align="center">
+  
+### <span style="font-family: Arial, sans-serif;">Fale comigo:</span>
 📱 [WhatsApp](https://wa.me/5514996149608)
-
+</div>
 
 <div align="center">
   <a href="mailto:bruno.rodrigues76@fatec.sp.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
