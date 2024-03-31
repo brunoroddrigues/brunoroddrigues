@@ -2,12 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E50800&height=190&section=header&text=Bruno%20Aparecido%20Rodrigues&fontSize=60&fontColor=000000&animation=twinkling&fontAlignY=35" style="background: linear-gradient(to right, #E50800, #000000, #E50800); fontFamily: 'Roboto', sans-serif;">
 </div>
 
-<img src="https://github.com/brunoroddrigues/brunoroddrigues/assets/142831593/bf9864e5-0c82-4797-b423-4211b189d78c" alt="login" style="width:200px;">
-
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=40&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Bruno+Aparecido+Rodrigues+;Tenho+26+anos;Sou+de+Jaú,+SP;Cursando+Sistemas+para+internet,+Fatec+Jahu+;+Senac+Jahu+;Bem-vindo!+:D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=40&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Bruno+Aparecido+Rodrigues+;Tenho+26+anos;Sou+de+Jaú,+SP;Cursando+Sistemas+para+internet,+Fatec+Jahu+;Bem-vindo!+:D)](https://git.io/typing-svg )
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brunoroddrigues&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=42EB10&text_color=FFFFFF&bg_color=0d1117" alt="GaMa404 Github stats" /> 
@@ -19,6 +14,14 @@
   <a href="mailto:bruno.rodrigues76@fatec.sp.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-aparecido-rodrigues-81a6492b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<br>
+
+<img src="https://github.com/brunoroddrigues/brunoroddrigues/assets/142831593/bf9864e5-0c82-4797-b423-4211b189d78c" alt="login" style="width:219px; height:150px; auto; display: block; margin: 0 auto 10px;">
+<img src="https://github.com/brunoroddrigues/brunoroddrigues/assets/142831593/4998de61-c4de-41eb-956d-7d6a3671c272" alt="login" style="width:219px; height:150px; auto; display: block; margin: 0 auto 10px;">
+<img src="https://github.com/brunoroddrigues/brunoroddrigues/assets/142831593/c9c7b071-8158-4e0e-afa6-b0fdd9fab353" alt="login" style="width:219px; height:150px; auto; display: block; margin: 0 auto 10px;">
+<img src="https://github.com/brunoroddrigues/brunoroddrigues/assets/142831593/5c4526b9-8846-48ea-aa4f-f8e1c1577fd4" alt="login" style="width:219px; height:150px; auto; display: block; margin: 0 auto 10px;">
+
 
 ### Linguagens
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
