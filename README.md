@@ -1,9 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E50800&height=190&section=header&text=Bruno%20Aparecido%20Rodrigues&fontSize=60&fontColor=000000&animation=twinkling&fontAlignY=35" style="background: linear-gradient(to right, #E50800, #000000, #E50800); fontFamily: 'Roboto', sans-serif;">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E50800&height=190&section=header&text=Bruno%20Aparecido%20Rodrigues%20👨‍🎓&fontSize=55&fontColor=000000&animation=twinkling&fontAlignY=35" style="background: linear-gradient(to right, #E50800, #000000, #E50800); fontFamily: 'Roboto', sans-serif;">
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=40&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Bruno+Aparecido+Rodrigues+;Tenho+26+anos;Sou+de+Jaú,+SP;Cursando+Sistemas+para+Internet,+Fatec+Jahu👨‍🎓+;Bem-vindo(a)!+🙂)](https://git.io/typing-svg )
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=40&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Bruno+Aparecido+Rodrigues+;Tenho+26+anos;Sou+de+Jaú,+SP;Cursando+Sistemas+para+Internet,+Fatec+Jahu+;Bem-vindo(a)!+🙂)](https://git.io/typing-svg )
 
 
 
