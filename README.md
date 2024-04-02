@@ -43,6 +43,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<br>
 
 ### Ferramentas: ⚙️
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
@@ -58,6 +59,15 @@
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)&nbsp;
 ![Azure Virtual Machine](https://img.shields.io/badge/Azure_Virtual_Machine-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=white)&nbsp;
+<br>
+<br>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+### Hobbies: 
+🥊 Pratico artes marciais regularmente, é uma atividade que me ajuda a manter o equilíbrio físico e mental.
+<br>
+📺 Séries: Adoro acompanhar séries para me distrair e relaxar.
 
 
 <div align="center" style="background: linear-gradient(to right, #E50800, #000000);">
