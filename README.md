@@ -31,6 +31,9 @@
 <img src="https://github.com/brunoroddrigues/brunoroddrigues/assets/142831593/4998de61-c4de-41eb-956d-7d6a3671c272" alt="login" style="width:220px; height:150px; auto; display: block; margin: 0 auto 10px;">
 <img src="https://github.com/brunoroddrigues/brunoroddrigues/assets/142831593/c9c7b071-8158-4e0e-afa6-b0fdd9fab353" alt="login" style="width:220px; height:150px; auto; display: block; margin: 0 auto 10px;">
 <img src="https://github.com/brunoroddrigues/brunoroddrigues/assets/142831593/5c4526b9-8846-48ea-aa4f-f8e1c1577fd4" alt="login" style="width:220px; height:150px; auto; display: block; margin: 0 auto 10px;">
+<img src="https://github.com/brunoroddrigues/brunoroddrigues/assets/142831593/3b67692d-fb9c-463e-abb8-1344cafd570b" alt="login" style="width:220px; height:150px; auto; display: block; margin: 0 auto 10px;">
+<img src="https://github.com/brunoroddrigues/brunoroddrigues/assets/142831593/a928c383-ecec-4dd6-80b0-7ae39b7775e9" alt="login" style="width:220px; height:150px; auto; display: block; margin: 0 auto 10px;">
+
 
 
 ### Estudando / Principais Linguagens: ⚡
