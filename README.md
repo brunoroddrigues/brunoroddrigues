@@ -12,6 +12,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoroddrigues&layout=compact&hide_border=true&title_color=0000FF&text_color=F&bg_color=0d1117" />
 </div>
 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <div align="center">
