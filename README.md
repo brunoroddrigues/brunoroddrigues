@@ -73,9 +73,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ### Hobbies: 🥋
-🥊 Pratico artes marciais regularmente, é uma atividade que me ajuda a manter o equilíbrio físico e mental.
+🥊 ***Pratico artes marciais regularmente, é uma atividade que me ajuda a manter o equilíbrio físico e mental.***
 <br>
-📺 Séries: Adoro acompanhar séries para me distrair e relaxar.
+📺 ***Séries: Adoro acompanhar séries para me distrair e relaxar.***
 
 
 <div align="center" style="background: linear-gradient(to right, #E50800, #000000);">
