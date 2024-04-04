@@ -12,8 +12,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brunoroddrigues&show_icons=true&count_private=true&hide_border=true&title_color=BFEFFF&icon_color=42EB10&text_color=FFFFFF&bg_color=0d1117" alt="brunoroddrigues Github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoroddrigues&layout=compact&hide_border=true&title_color=BFEFFF&text_color=F&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brunoroddrigues&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF;&icon_color=42EB10&text_color=FFFFFF&bg_color=0d1117" alt="brunoroddrigues Github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoroddrigues&layout=compact&hide_border=true&title_color=00FFFF;;&text_color=F&bg_color=0d1117" />
 </div>
 
 
