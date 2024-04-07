@@ -80,6 +80,8 @@
 <br>
 📺 ***Séries: Adoro acompanhar séries para me distrair e relaxar.***
 
+<br>
+
 ![](https://komarev.com/ghpvc/?username=brunoroddrigues)
 
 
