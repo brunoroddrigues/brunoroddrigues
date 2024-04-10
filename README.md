@@ -1,6 +1,8 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E50800&height=190&section=header&text=Bruno%20Aparecido%20Rodrigues%20👨‍🎓&fontSize=55&fontColor=000000&animation=twinkling&fontAlignY=35" style="background: linear-gradient(to right, #E50800, #000000, #E50800); fontFamily: 'Roboto', sans-serif;">
 </div>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=brunoroddrigues" alt="Profile Views" /></p>
+
 
 <div align="center">
   <img src="https://e0.pxfuel.com/wallpapers/358/714/desktop-wallpaper-stefan-iordache-your-desired-developer-to-make-your-perfect-responsive-website-web-programming.jpg" width="50%" height="auto" alt="Imagem" />
@@ -78,11 +80,14 @@
 ### Hobbies: 🥋
 🥊 ***Pratico artes marciais regularmente, é uma atividade que me ajuda a manter o equilíbrio físico e mental.***
 <br>
+<br>
 📺 ***Séries: Adoro acompanhar séries para me distrair e relaxar.***
-
+<br>
+<br>
 <br>
 
-![](https://komarev.com/ghpvc/?username=brunoroddrigues)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brunoroddrigues&bg_color=090b09&color=FF0000&line=18812c&point=09390a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
