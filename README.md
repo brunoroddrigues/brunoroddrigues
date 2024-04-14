@@ -1,9 +1,13 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E50800&height=190&section=header&text=Bruno%20Aparecido%20Rodrigues%20👨‍🎓&fontSize=55&fontColor=000000&animation=twinkling&fontAlignY=35" style="background: linear-gradient(to right, #E50800, #000000, #E50800); fontFamily: 'Roboto', sans-serif;">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E50800&height=190&section=header&text=Bruno%20Aparecido%20Rodrigues%20&fontSize=55&fontColor=000000&animation=twinkling&fontAlignY=35" style="background: linear-gradient(to right, #E50800, #000000, #E50800); fontFamily: 'Roboto', sans-serif;" >
+  
+</div>
+<div align="center">
+  <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture>
+  <img src="https://komarev.com/ghpvc/?username=brunoroddrigues" alt="Profile Views" />
 </div>
 
- 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=brunoroddrigues" alt="Profile Views" /></p>
+
 
 
 <div align="center">
@@ -25,7 +29,7 @@
 
 <div align="center">
   
-### <span style="font-family: Arial, sans-serif;">📞📧  Fale comigo:</span>
+### <span style="font-family: Arial, sans-serif;">📞📧  Fale comigo:</span> </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 📱 [WhatsApp](https://wa.me/5514996149608)
 </div>
 
@@ -97,4 +101,5 @@
 <div align="center" style="background: linear-gradient(to right, #E50800, #000000);">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E50800&height=120&section=footer&text=&copy;2024%20-%20Bruno%20Rodrigues%20/%20Email:%20bruno.rodrigues76@fatec.sp.gov.br%20-%20GitHub&fontSize=20&fontColor=000000&animation=twinkling&fontAlignY=75"/>
 </div>
+
 
