@@ -88,7 +88,7 @@
 <br>
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brunoroddrigues&bg_color=090b09&color=FF0000&line=18812c&point=09390a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
