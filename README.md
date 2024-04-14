@@ -93,7 +93,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brunoroddrigues&bg_color=090b09&color=FF0000&line=18812c&point=09390a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <img src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" alt="Master GIF">
 
 <div align="center" style="background: linear-gradient(to right, #E50800, #000000);">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E50800&height=120&section=footer&text=&copy;2024%20-%20Bruno%20Rodrigues%20/%20Email:%20bruno.rodrigues76@fatec.sp.gov.br%20-%20GitHub&fontSize=20&fontColor=000000&animation=twinkling&fontAlignY=75"/>
