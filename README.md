@@ -14,6 +14,7 @@
   <img src="https://e0.pxfuel.com/wallpapers/358/714/desktop-wallpaper-stefan-iordache-your-desired-developer-to-make-your-perfect-responsive-website-web-programming.jpg" width="50%" height="auto" alt="Imagem" />
 </div>
 <br>
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=40&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Bruno+Aparecido+Rodrigues+;Sou+de+Jaú,+SP;CCursando+Sistemas+para+Internet,+Fatec+Jahu+;Bem-vindo(a)!+🙂)](https://git.io/typing-svg )
 
