@@ -41,7 +41,6 @@
 
 </div>
 
-<br>
 
 <img src="https://github.com/brunoroddrigues/brunoroddrigues/assets/142831593/bf9864e5-0c82-4797-b423-4211b189d78c" alt="login" style="width:220px; height:150px; auto; display: block; margin: 0 auto 10px;">
 <img src="https://github.com/brunoroddrigues/brunoroddrigues/assets/142831593/4998de61-c4de-41eb-956d-7d6a3671c272" alt="login" style="width:220px; height:150px; auto; display: block; margin: 0 auto 10px;">
